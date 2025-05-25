@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+torch
+numpy
+pandas
