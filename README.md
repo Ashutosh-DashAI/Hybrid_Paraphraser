@@ -2,7 +2,8 @@
 
 A sophisticated hybrid paraphrasing tool combining rule-based NLP techniques with state-of-the-art AI models for optimal text rephrasing.
 
-![image](https://github.com/user-attachments/assets/b6edc6c8-336b-49df-a686-9248b1cfb788)
+![image](https://github.com/user-attachments/assets/7edebff1-27e5-4626-bd21-cdf81ee0ab64)
+
 
 
 
