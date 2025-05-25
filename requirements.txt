@@ -1,8 +1,12 @@
-# requirements.txt
-streamlit
-transformers
-sentence-transformers
-faiss-cpu
-torch
-numpy
-pandas
+streamlit>=1.22.0
+transformers>=4.28.1
+sentence-transformers>=2.2.2
+torch>=1.9.0
+nltk>=3.7
+python-dotenv>=0.19.0
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+tqdm>=4.62.0
+sentencepiece>=0.1.96
+protobuf>=3.19.0
